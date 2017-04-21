@@ -1,6 +1,6 @@
 # testpage
 Guide of Information Resources
 
-:adventure:
+:running:
 
 ##eJournals A-Z List
