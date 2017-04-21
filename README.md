@@ -1,7 +1,6 @@
 # testpage
 Guide of Information Resources
 
--University of Washington
-Health Sciences Library
+:awesome:
 
 ##eJournals A-Z List
