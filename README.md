@@ -1,6 +1,6 @@
 # testpage
 Guide of Information Resources
 
-:running:
+### Health Sciences Library
 
 ## eJournals A-Z List
