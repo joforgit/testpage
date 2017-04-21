@@ -3,4 +3,4 @@ Guide of Information Resources
 
 :running:
 
-##eJournals A-Z List
+## eJournals A-Z List
